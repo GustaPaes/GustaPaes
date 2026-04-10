@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaPaes&show_icons=true&theme=dracula&hide_title=true)](https://github.com/seuusername/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaPaes&show_icons=true&theme=dracula&hide_title=true)](https://github.com/GustaPaes/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaPaes&layout=compact&theme=dracula&hide_title=true)](https://github.com/seuusername/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaPaes&layout=compact&theme=dracula&hide_title=true)](https://github.com/GustaPaes/github-readme-stats)
 
 ### 🌐 Conecte-se comigo
 
