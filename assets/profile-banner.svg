@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Gustavo Paes de Liz — Full Stack Developer</title>
+  <desc id="description">Professional profile banner highlighting backend, web, mobile, cloud, and application security.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset=".55" stop-color="#14243b"/>
+      <stop offset="1" stop-color="#173d43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <circle cx="1070" cy="70" r="150" fill="#22d3ee" opacity=".10" filter="url(#glow)"/>
+  <circle cx="108" cy="320" r="150" fill="#34d399" opacity=".12" filter="url(#glow)"/>
+  <g opacity=".3" stroke="#67e8f9" fill="none">
+    <path d="M890 0v74l44 44v76l45 45v121"/>
+    <path d="M960 0v58l54 54v90l58 58v100"/>
+    <path d="M1040 0v42l46 46v78l74 74"/>
+    <circle cx="934" cy="118" r="5" fill="#67e8f9"/>
+    <circle cx="1014" cy="112" r="5" fill="#67e8f9"/>
+    <circle cx="1086" cy="88" r="5" fill="#67e8f9"/>
+  </g>
+  <rect x="72" y="64" width="8" height="232" rx="4" fill="url(#accent)"/>
+  <text x="112" y="126" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">SOFTWARE ENGINEERING</text>
+  <text x="108" y="190" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="47" font-weight="750">Gustavo Paes de Liz</text>
+  <text x="110" y="235" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="25">Full Stack Developer · Technical Leadership · AppSec</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">
+    <rect x="110" y="266" width="110" height="36" rx="18" fill="#ffffff" opacity=".1" stroke="#67e8f9" stroke-opacity=".5"/>
+    <text x="137" y="289" fill="#ecfeff">C# / .NET</text>
+    <rect x="232" y="266" width="135" height="36" rx="18" fill="#ffffff" opacity=".1" stroke="#67e8f9" stroke-opacity=".5"/>
+    <text x="254" y="289" fill="#ecfeff">React Native</text>
+    <rect x="379" y="266" width="106" height="36" rx="18" fill="#ffffff" opacity=".1" stroke="#67e8f9" stroke-opacity=".5"/>
+    <text x="402" y="289" fill="#ecfeff">Angular</text>
+    <rect x="497" y="266" width="96" height="36" rx="18" fill="#ffffff" opacity=".1" stroke="#67e8f9" stroke-opacity=".5"/>
+    <text x="522" y="289" fill="#ecfeff">Azure</text>
+    <rect x="605" y="266" width="105" height="36" rx="18" fill="#ffffff" opacity=".1" stroke="#67e8f9" stroke-opacity=".5"/>
+    <text x="627" y="289" fill="#ecfeff">AppSec</text>
+  </g>
+</svg>

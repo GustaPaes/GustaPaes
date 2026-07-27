@@ -1,63 +1,81 @@
-# Gustavo Paes de Liz
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Gustavo Paes de Liz — Desenvolvedor Full Stack, Liderança Técnica e AppSec" />
 
-**Desenvolvedor Full Stack | C#/.NET | React Native | Angular | Azure**
+  <br />
 
-[English](README.md)
+  [English](README.md) ·
+  [LinkedIn](https://www.linkedin.com/in/gustavo-paes-de-liz) ·
+  [Email](mailto:gustavo.paes.liz@gmail.com)
+</div>
 
-Desenvolvo e evoluo produtos backend, web e mobile, com foco em entregas
-confiáveis, arquitetura sustentável e segurança de aplicações. Atualmente atuo
-na NDD Tech, onde exerço liderança técnica em um produto React Native e também
-contribuo como Security Champion.
+## Olá, eu sou o Gustavo
 
-## Tecnologias e práticas
+Desenvolvo e evoluo produtos backend, web e mobile com foco em entregas
+confiáveis, arquitetura sustentável e segurança de aplicações.
 
-- **Backend:** C#, .NET, ASP.NET Core, APIs REST, microsserviços e RabbitMQ.
-- **Web e mobile:** React Native, Angular, AngularJS, React e TypeScript.
-- **Dados:** SQL Server, PostgreSQL, MongoDB e Redis.
-- **Cloud e entrega:** Azure DevOps, Azure AKS, Kubernetes, Docker, IIS e CI/CD.
-- **Qualidade e segurança:** Playwright, Jest, testes unitários, OWASP, SAST,
-  DAST, SonarQube, Trivy e revisão de código.
+Na **NDD Tech**, atuo com serviços C#/.NET, aplicações React Native, frontends
+Angular e entrega em cloud. Também exerço direção técnica em um time mobile e
+contribuo como **Security Champion**.
+
+> Da arquitetura e implementação à entrega e qualidade em produção, gosto de
+> transformar requisitos complexos em software que os times consigam evoluir
+> com segurança.
 
 ## Projetos selecionados
 
-### [MotoRental](https://github.com/GustaPaes/MotoRental)
+### 🏍️ [MotoRental](https://github.com/GustaPaes/MotoRental)
 
-API orientada a eventos para locação de motos, construída com .NET 8,
-PostgreSQL, RabbitMQ, MongoDB, MinIO, Docker e testes automatizados.
+API de locação de motos orientada a eventos com **.NET 8, PostgreSQL, RabbitMQ,
+MongoDB, MinIO, Docker e testes automatizados**. O projeto demonstra
+processamento assíncrono, separação de persistência, object storage e ambiente
+local reproduzível.
 
-### [Playwright AI Starter](https://github.com/GustaPaes/playwright-ai-starter)
+### 🎭 [Playwright AI Starter](https://github.com/GustaPaes/playwright-ai-starter)
 
-Template reutilizável de Playwright e TypeScript com instruções para agentes de
-IA, verificações de qualidade, GitHub Actions, Azure DevOps e evidências de falha.
+Template reutilizável de **Playwright e TypeScript** com orientação para
+desenvolvimento assistido por IA, verificações rigorosas, evidências portáteis
+de falha, GitHub Actions e Azure DevOps.
 
-### [AIOX Sprint Canvas](https://github.com/GustaPaes/aiox-sprint-canvas)
+### 🧭 [AIOX Sprint Canvas](https://github.com/GustaPaes/aiox-sprint-canvas)
 
-Aplicação React e TypeScript que transforma o brief de uma funcionalidade em um
-plano visual com requisitos, critérios de aceite, riscos, QA e etapas de commit.
-[Acessar demonstração](https://aiox-sprint-canvas.vercel.app)
+Workspace interativo em **React e TypeScript** que transforma um brief em
+backlog priorizado, métricas de capacidade, quadro de execução, QA, riscos e
+handoff portátil em Markdown/JSON.
+[Acessar a aplicação](https://aiox-sprint-canvas.vercel.app).
 
-### [WebAppDeployer](https://github.com/GustaPaes/WebAppDeployer)
+### 🚀 [WebAppDeployer](https://github.com/GustaPaes/WebAppDeployer)
 
 Utilitário de linha de comando em C# que automatiza pools, aplicações e
-diretórios virtuais do IIS durante entregas em servidores Windows.
+diretórios virtuais do IIS em entregas para Windows Server.
 
-## Resultados profissionais
+## Ferramentas e práticas
 
-- Liderança técnica, revisões e suporte ao desenvolvimento de um time mobile com
-  quatro desenvolvedores.
-- Contribuição para a redução de **35% das vulnerabilidades em seis meses**, com
-  práticas de desenvolvimento seguro e priorização de correções.
-- Redução de **40% no tempo de build** de pipelines Azure DevOps com cache e
-  paralelização.
-- Participação na migração do React Native 0.63 para 0.75, reduzindo crashes em
-  aproximadamente **30%**.
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Backend** | `C#` `ASP.NET Core` `.NET` `APIs REST` `Microsserviços` `RabbitMQ` |
+| **Web e mobile** | `React Native` `Angular` `AngularJS` `React` `TypeScript` |
+| **Dados** | `SQL Server` `PostgreSQL` `MongoDB` `Redis` |
+| **Cloud e entrega** | `Azure DevOps` `AKS` `Kubernetes` `Docker` `IIS` `CI/CD` |
+| **Qualidade e segurança** | `Playwright` `Jest` `OWASP` `SAST` `DAST` `SonarQube` `Trivy` |
+
+## Impacto na prática
+
+| | Resultado |
+| --- | --- |
+| 👥 **Liderança técnica** | Direção, revisões e suporte para um time mobile de quatro desenvolvedores |
+| 🛡️ **Segurança de aplicações** | Contribuição para reduzir vulnerabilidades reportadas em **35% em seis meses** |
+| ⚡ **Performance de entrega** | Redução de **40%** no tempo de build em pipelines Azure DevOps |
+| 📱 **Confiabilidade mobile** | Participação na atualização React Native 0.63 → 0.75, com aproximadamente **30% menos crashes** |
 
 ## Atualmente
 
-- Atuação com serviços C#/.NET, React Native, Angular, cloud, CI/CD e AppSec.
-- Bacharelado em Sistemas de Informação em andamento na UNIPLAC.
+- Desenvolvimento e manutenção de produtos backend, web, mobile, cloud e AppSec.
+- Bacharelado em Sistemas de Informação em andamento na **UNIPLAC**.
+- Interesse em desafios que conectem arquitetura, entrega e liderança técnica.
 
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/gustavo-paes-de-liz) |
-[Email](mailto:gustavo.paes.liz@gmail.com)
+<div align="center">
+  <strong>Vamos conversar</strong><br /><br />
+  <a href="https://www.linkedin.com/in/gustavo-paes-de-liz">LinkedIn</a>
+  ·
+  <a href="mailto:gustavo.paes.liz@gmail.com">Email</a>
+</div>
