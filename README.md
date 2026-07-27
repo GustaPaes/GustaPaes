@@ -1,54 +1,61 @@
-## Olá! Eu sou o Gustavo Paes de Liz, Desenvolvedor Full Stack 🚀
+# Gustavo Paes de Liz
 
-💼 Atualmente atuo como **Analista Desenvolvedor**, com expertise em desenvolvimento end-to-end e arquitetura de aplicações escaláveis.
+**Full Stack Developer | C#/.NET | React Native | Angular | Azure**
 
-🌱 Sempre em busca de novos desafios e aprendizados no universo do desenvolvimento de software.
+[Português (Brasil)](README.pt-BR.md)
 
-### 🛠️ Tech Stack
+I build and evolve backend, web, and mobile products, with a focus on reliable
+delivery, maintainable architecture, and application security. I currently work
+at NDD Tech, where I provide technical leadership for a React Native product and
+act as a Security Champion.
 
-<div style="display: inline_block"><br>
-  <!-- Frontend -->
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <!-- Backend -->
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  <!-- Database -->
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  
-  <!-- Tools & Cloud -->
-  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+## What I work with
 
-### 📊 GitHub Stats
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, microservices, and RabbitMQ.
+- **Web and mobile:** React Native, Angular, AngularJS, React, and TypeScript.
+- **Data:** SQL Server, PostgreSQL, MongoDB, and Redis.
+- **Cloud and delivery:** Azure DevOps, Azure AKS, Kubernetes, Docker, IIS, and CI/CD.
+- **Quality and security:** Playwright, Jest, unit testing, OWASP, SAST, DAST,
+  SonarQube, Trivy, and code review.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaPaes&show_icons=true&theme=dracula&hide_title=true)](https://github.com/GustaPaes/github-readme-stats)
+## Selected work
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaPaes&layout=compact&theme=dracula&hide_title=true)](https://github.com/GustaPaes/github-readme-stats)
+### [MotoRental](https://github.com/GustaPaes/MotoRental)
 
-### 🌐 Conecte-se comigo
+Event-driven motorcycle rental API built with .NET 8, PostgreSQL, RabbitMQ,
+MongoDB, MinIO, Docker, and automated tests.
 
-<div> 
-  <a href="https://www.linkedin.com/in/gustavo-paes-de-liz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href = "mailto:gustavo.paes.liz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/GustaPaes?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</div>
+### [Playwright AI Starter](https://github.com/GustaPaes/playwright-ai-starter)
 
----
+Reusable Playwright and TypeScript template with AI-agent guidance, strict
+quality checks, GitHub Actions, Azure DevOps, and portable failure evidence.
 
-⭐ *Do backend ao frontend, criando soluções completas e eficientes* ⭐
+### [AIOX Sprint Canvas](https://github.com/GustaPaes/aiox-sprint-canvas)
+
+React and TypeScript application that turns a feature brief into a visual sprint
+plan with requirements, acceptance criteria, risks, QA checks, and commit steps.
+[Live demo](https://aiox-sprint-canvas.vercel.app)
+
+### [WebAppDeployer](https://github.com/GustaPaes/WebAppDeployer)
+
+C# command-line utility that automates IIS application pools, applications, and
+virtual directories during Windows server releases.
+
+## Professional impact
+
+- Provide technical direction, reviews, and support for a mobile team of four developers.
+- Helped reduce reported vulnerabilities by **35% in six months** through
+  secure-development practices and remediation prioritization.
+- Improved Azure DevOps pipeline build time by **40%** with caching and parallelization.
+- Contributed to a React Native upgrade from 0.63 to 0.75, reducing crashes by
+  approximately **30%**.
+
+## Currently
+
+- Working across C#/.NET services, React Native, Angular, cloud delivery, and AppSec.
+- Completing a Bachelor's degree in Information Systems at UNIPLAC.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-paes-de-liz) |
+[Email](mailto:gustavo.paes.liz@gmail.com)
